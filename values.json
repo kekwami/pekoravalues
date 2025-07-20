@@ -1,0 +1,782 @@
+[
+  {
+    "Name": "Dominus Infernus",
+    "Acronym": "INF",
+    "Value": 24000,
+    "Image": "https://pekora.zip/images/thumbnails/bf8b3905d00b79847d068397e6fa38de62898dda2e99d188a8161698ee088621.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/36141/Dominus-Infernus",
+    "Trend": "Stable",
+    "History": [
+      24000
+    ]
+  },
+  {
+    "Name": "Sparkle Time Fedora",
+    "Acronym": "STF",
+    "Value": 4000,
+    "Image": "https://pekora.zip/images/thumbnails/8e1244ca59858108f099e1d00f92b3a1a61d2c602c6991acad9cac8a82e0b0bf.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/33373/Sparkle-Time-Fedora",
+    "Trend": "Stable",
+    "History": [
+      4000
+    ]
+  },
+  {
+    "Name": "Ice Valkyrie",
+    "Acronym": "IV",
+    "Value": 2500,
+    "Image": "https://pekora.zip/images/thumbnails/b11b093b2bc27afc258dcedc9f4faad78655a6ebe5d63828ea9f3df8387190c0.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/87888/Ice-Valkyrie",
+    "Trend": "Stable",
+    "History": [
+      2500
+    ]
+  },
+  {
+    "Name": "Viscount of the Federation",
+    "Acronym": "VotF",
+    "Value": 1500,
+    "Image": "https://pekora.zip/images/thumbnails/b33c033c4c794620d549a12561c5bb9f8e1b0c38d0f67511bc9a7b8652c04243.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/42603/Viscount-of-the-Federation",
+    "Trend": "Stable",
+    "History": [
+      1500
+    ]
+  },
+  {
+    "Name": "Dominus Messor",
+    "Acronym": "DM",
+    "Value": 2700,
+    "Image": "https://pekora.zip/images/thumbnails/e25a3266dd3200f0986bc83dc7ccab9e9b1c1bea1e17f8d7835727f93c5544c6.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/33985/Dominus-Messor",
+    "Trend": "Stable",
+    "History": [
+      2700
+    ]
+  },
+  {
+    "Name": "Poisoned Horns of the Toxic Wasteland",
+    "Acronym": "PHotTW",
+    "Value": 3000,
+    "Image": "https://pekora.zip/images/thumbnails/f304893d0d48cccf1a2066aba5630cf31670aa760e52d4e14d9b914916f36d62.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/9092/Poisoned-Horns-of-the-Toxic-Wasteland",
+    "Trend": "Stable",
+    "History": [
+      3000
+    ]
+  },
+  {
+    "Name": "Rainbow Shaggy",
+    "Acronym": "RS",
+    "Value": 3000,
+    "Image": "https://pekora.zip/images/thumbnails/e72e39ecf3832c7c853eb7247b8937cad8cba54d8bd848bba648399ade5a1978.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/16588/Rainbow-Shaggy",
+    "Trend": "Stable",
+    "History": [
+      3000
+    ]
+  },
+  {
+    "Name": "Fiery Horns of the Netherworld",
+    "Acronym": "FHotN",
+    "Value": 5500,
+    "Image": "https://pekora.zip/images/thumbnails/ad968de72af8264bebe41e890b0e1d7549865b6fd740fa4c40de13fc2ff32bf4.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/36041/Fiery-Horns-of-the-Netherworld",
+    "Trend": "Stable",
+    "History": [
+      5500
+    ]
+  },
+  {
+    "Name": "Transient Harmonica",
+    "Acronym": "TH",
+    "Value": 2500,
+    "Image": "https://pekora.zip/images/thumbnails/f8f2c7180709a7340dc75491575b49f59701fc13ecdaaf66140bc0bc291d9636.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/35479/Transient-Harmonica",
+    "Trend": "Stable",
+    "History": [
+      2500
+    ]
+  },
+  {
+    "Name": "The Void Star",
+    "Acronym": "TVS",
+    "Value": 3500,
+    "Image": "https://pekora.zip/images/thumbnails/eabdb5e4f697e81b01b51ff02aeb840cbba193ff3346cb43bc4bddb6700d8905.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/34380/The-Void-Star",
+    "Trend": "Stable",
+    "History": [
+      3500
+    ]
+  },
+  {
+    "Name": "Purple Sparkle Time Fedora",
+    "Acronym": "PSTF",
+    "Value": 2750,
+    "Image": "https://pekora.zip/images/thumbnails/6de2bbc3fced236eb49f9609abee0ac91a0684bc83f03a67bb42278e3b934f79.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/32732/Purple-Sparkle-Time-Fedora",
+    "Trend": "Stable",
+    "History": [
+      2750
+    ]
+  },
+  {
+    "Name": "The Classic ROBLOX Fedora",
+    "Acronym": "TCRF",
+    "Value": 2500,
+    "Image": "https://pekora.zip/images/thumbnails/6a0cacccd0d138fc6ca1714c99249c1ee3c3f66c62f3ce851b451c8db2142c46.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/34341/The-Classic-ROBLOX-Fedora",
+    "Trend": "Stable",
+    "History": [
+      2500
+    ]
+  },
+  {
+    "Name": "Disgraced Baron of the Federation",
+    "Acronym": "DBotF",
+    "Value": 3000,
+    "Image": "https://pekora.zip/images/thumbnails/ae8e0a9826785a60b7b72953961b9d2cc9460bbff2d1d320fae75b33e3af1de7.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/33613/Disgraced-Baron-of-the-Federation",
+    "Trend": "Stable",
+    "History": [
+      3000
+    ]
+  },
+  {
+    "Name": "Valkyrie Helm",
+    "Acronym": "VH",
+    "Value": 3700,
+    "Image": "https://pekora.zip/images/thumbnails/c50b54e8c08a2b14bab7c8bab1ccc9a9624afa8c56c2a849b98aaf3e368ad0fa.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/36461/Valkyrie-Helm",
+    "Trend": "Stable",
+    "History": [
+      3700
+    ]
+  },
+  {
+    "Name": "Bling $$ Necklace",
+    "Acronym": "BSN",
+    "Value": 4500,
+    "Image": "https://pekora.zip/images/thumbnails/2fd19ef24db68bd65dab9e2055dfaa3ba6784d8820ef901d5e65f6876db9b9fb.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/32155/Bling-Necklace",
+    "Trend": "Stable",
+    "History": [
+      4500
+    ]
+  },
+  {
+    "Name": "Dominus Frigidus",
+    "Acronym": "DF",
+    "Value": 13000,
+    "Image": "https://pekora.zip/images/thumbnails/11195b53b88df822f463962193263b14765f4c87fd74540089c1b8b7e3386972.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/31413/Dominus-Frigidus",
+    "Trend": "Stable",
+    "History": [
+      13000
+    ]
+  },
+  {
+    "Name": "The Dog Whisperer",
+    "Acronym": "TDW",
+    "Value": 2000,
+    "Image": "https://pekora.zip/images/thumbnails/d1c5dcc0f8f662b049b053ec294b2904f72fb401fef76d04b11b228a72b2e037.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/41316/The-Dog-Whisperer",
+    "Trend": "Stable",
+    "History": [
+      2000
+    ]
+  },
+  {
+    "Name": "Orange Sparkle Time Fedora",
+    "Acronym": "OSTF",
+    "Value": 2000,
+    "Image": "https://pekora.zip/images/thumbnails/f0c1d2a8e814dc70e395f675a9ab9f07417444a330f747b97687115b65ca854f.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/15460/Orange-Sparkle-Time-Fedora",
+    "Trend": "Stable",
+    "History": [
+      2000
+    ]
+  },
+  {
+    "Name": "Hallow's Void Star",
+    "Acronym": "HVS",
+    "Value": 4500,
+    "Image": "https://pekora.zip/images/thumbnails/32184e3d953bed18f95fe1901cbdd4455524e50830f382d8739a36eb96b9d67e.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/15579/Hallows-Void-Star",
+    "Trend": "Stable",
+    "History": [
+      4500
+    ]
+  },
+  {
+    "Name": "Clockwork's Shades",
+    "Acronym": "CS",
+    "Value": 3300,
+    "Image": "https://pekora.zip/images/thumbnails/49f69d05cb7475295a28ee56b7784db9a812307dea8704a22189b8023b047e2e.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/31731/Clockworks-Shades",
+    "Trend": "Stable",
+    "History": [
+      3300
+    ]
+  },
+  {
+    "Name": "Silver King of the Night",
+    "Acronym": "SKotN",
+    "Value": 2500,
+    "Image": "https://pekora.zip/images/thumbnails/7e7c6bbd6f52474e23495e2cb65466158e8fcb6322f53db08aa84ada3e7d0b69.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/41084/Silver-King-of-the-Night",
+    "Trend": "Stable",
+    "History": [
+      2500
+    ]
+  },
+  {
+    "Name": "Clockwork's Headphones",
+    "Acronym": "CH",
+    "Value": 3000,
+    "Image": "https://pekora.zip/images/thumbnails/2226d1528f87252aea40007f9df7d48ee01dc35cb736fe0fa4abace949c3fd7b.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/25795/Clockworks-Headphones",
+    "Trend": "Stable",
+    "History": [
+      3000
+    ]
+  },
+  {
+    "Name": "Playful Vampire",
+    "Acronym": "PV",
+    "Value": 1200,
+    "Image": "https://pekora.zip/images/thumbnails/b09e59f6f5fac754a6aac99342f0e551bdff263e59d87b98a2b6d6c1e27eb51a.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/14801/Playful-Vampire",
+    "Trend": "Stable",
+    "History": [
+      1200
+    ]
+  },
+  {
+    "Name": "Red Sparkle Time Fedora",
+    "Acronym": "RSTF",
+    "Value": 18500,
+    "Image": "https://pekora.zip/images/thumbnails/522a2b33dfa6ad4e09e1b8df5129c9fd4c0ea2061449148acbafc69a3776d9fc.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/44745/Red-Sparkle-Time-Fedora",
+    "Trend": "Stable",
+    "History": [
+      18500
+    ]
+  },
+  {
+    "Name": "Green Sparkle Time Fedora",
+    "Acronym": "GSTF",
+    "Value": 8000,
+    "Image": "https://pekora.zip/images/thumbnails/21e80042d113362117b3349b0e201c3b0e63af6e3942eecc3206967d24f24b89.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/46118/Green-Sparkle-Time-Fedora",
+    "Trend": "Stable",
+    "History": [
+      8000
+    ]
+  },
+  {
+    "Name": "Frozen Horns of the Frigid Planes",
+    "Acronym": "FHotFP",
+    "Value": 7500,
+    "Image": "https://pekora.zip/images/thumbnails/a38f765006bf3321fd4974b0711e31b07970386406f1919bde6a5c359941054e.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/39611/Frozen-Horns-of-the-Frigid-Planes",
+    "Trend": "Stable",
+    "History": [
+      7500
+    ]
+  },
+  {
+    "Name": "Dominus Empyreus",
+    "Acronym": "DE",
+    "Value": 60000,
+    "Image": "https://pekora.zip/images/thumbnails/c28f676a9e4fd9b7891ccce63ba37b4d1f5740229775edb35e44f1808d292a60.png",
+    "Demand": "High",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/37738/Dominus-Empyreus",
+    "Trend": "Stable",
+    "History": [
+      60000
+    ]
+  },
+  {
+    "Name": "Dominus Rex",
+    "Acronym": "DR",
+    "Value": 5000,
+    "Image": "https://pekora.zip/images/thumbnails/5faa59b14da2bcb905129e04b04e3a1b2f5864d6dcde37ad0d836d5c173b6b07.png",
+    "Demand": "Low",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/43223/Dominus-Rex",
+    "Trend": "Stable",
+    "History": [
+      5000
+    ]
+  },
+  {
+    "Name": "Eerie Pumpkin Head",
+    "Acronym": "EPH",
+    "Value": 2450,
+    "Image": "https://pekora.zip/images/thumbnails/b08c2929653bf52547454acef11d80412775134ec79f7555cf36dbe9f234bff5.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/16821/Eerie-Pumpkin-Head",
+    "Trend": "Stable",
+    "History": [
+      2450
+    ]
+  },
+  {
+    "Name": "Super Super Happy Face",
+    "Acronym": "SSHF",
+    "Value": 3000,
+    "Image": "https://pekora.zip/images/thumbnails/e2d636b906d29a06e30b843a340d919e6233590d7a51ecaf919f37f530e1f927.png",
+    "Demand": "Decent",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/38528/Super-Super-Happy-Face",
+    "Trend": "Stable",
+    "History": [
+      3000
+    ]
+  },
+  {
+    "Name": "Dominus Praefectus",
+    "Acronym": "DP",
+    "Value": 4000,
+    "Image": "https://pekora.zip/images/thumbnails/cdbcc1996d0a684eca6ffda1ef7904573c84a4f9b4074bdcd44314458ad643da.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/42443/Dominus-Praefectus",
+    "Trend": "Stable",
+    "History": [
+      4000
+    ]
+  },
+  {
+    "Name": "Black Iron Horns",
+    "Acronym": "BIH",
+    "Value": 1250,
+    "Image": "https://pekora.zip/images/thumbnails/20e2d74c1b8405dfaa6be27cc08e17a0c701d2088dda03f8de13670d0969767a.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/43196/Black-Iron-Horns",
+    "Trend": "Stable",
+    "History": [
+      1250
+    ]
+  },
+  {
+    "Name": "Red Domino Crown",
+    "Acronym": "RDC",
+    "Value": 17000,
+    "Image": "https://pekora.zip/images/thumbnails/b27d648a70cafb2df2fcabd80edb31015ed7f055eccd6d9d397a4f63a06c0cc8.png",
+    "Demand": "Decent",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/47973/Red-Domino-Crown",
+    "Trend": "Stable",
+    "History": [
+      17000
+    ]
+  },
+  {
+    "Name": "Eccentric Shop Teacher",
+    "Acronym": "EST",
+    "Value": 8500,
+    "Image": "https://pekora.zip/images/thumbnails/5e84625a860268228ab3641d2dbfbed5ed7324cd10df47c6469d14d1093b3b03.png",
+    "Demand": "Low",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/53061/Eccentric-Shop-Teacher",
+    "Trend": "Stable",
+    "History": [
+      8500
+    ]
+  },
+  {
+    "Name": "Dark Conjurer",
+    "Acronym": "DC",
+    "Value": 0,
+    "Image": "https://pekora.zip/images/thumbnails/66e0aed1bdc04b86e7f2356cd4ee543b67c8e2e9913bf45bd198666d3d6caa31.png",
+    "Demand": "Unassigned",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/45344/Dark-Conjurer",
+    "Trend": "Stable",
+    "History": [
+      0
+    ]
+  },
+  {
+    "Name": "Dominus Vespertilio",
+    "Acronym": "DV",
+    "Value": 4500,
+    "Image": "https://pekora.zip/images/thumbnails/13ba31c5c38a8d7b2b6c3f02148d262179ba6ed02cf3e0fb04cad3c9a21f40f2.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/16325/Dominus-Vespertilio",
+    "Trend": "Stable",
+    "History": [
+      4500
+    ]
+  },
+  {
+    "Name": "Red Void Star",
+    "Acronym": "RVS",
+    "Value": 8950,
+    "Image": "https://pekora.zip/images/thumbnails/3e27bbc552b7784a9d06a49c55d8635038fcea8b996b0d498934522ff4da1f6a.png",
+    "Demand": "Decent",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/43898/Red-Void-Star",
+    "Trend": "Stable",
+    "History": [
+      8950
+    ]
+  },
+  {
+    "Name": "Twin Kodachi",
+    "Acronym": "TK",
+    "Value": 2000,
+    "Image": "https://www.pekora.zip/images/thumbnails/bea4b6c90a4378a0b20ef2bd9b5219b2c45a65d450b4152e8889e164b2f80161.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/45517/Twin-Kodachi",
+    "Trend": "",
+    "History": [
+      
+    ]
+  },
+  {
+    "Name": "Lord of the Federation",
+    "Acronym": "LotF",
+    "Value": 30000,
+    "Image": "https://pekora.zip/images/thumbnails/35bbcadc1e3481fea2b2fc03d13edbc788f041897c0bc28645a212f82c4c11b9.png",
+    "Demand": "Decent",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/77953/Lord-of-the-Federation",
+    "Trend": "Stable",
+    "History": [
+      30000
+    ]
+  },
+  {
+    "Name": "Red Glowing Eyes",
+    "Acronym": "RGE",
+    "Value": 6250,
+    "Image": "https://pekora.zip/images/thumbnails/0562ffc686b892dc4b500ae56720cf2f4ef94abdc57dd847464f9eb5ef8ccf74.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/54584/Red-Glowing-Eyes",
+    "Trend": "Stable",
+    "History": [
+      6250
+    ]
+  },
+  {
+    "Name": "): Euro 180",
+    "Acronym": "E180",
+    "Value": 5000,
+    "Image": "https://pekora.zip/images/thumbnails/cfe142153bf273692af8ebe51a7f82063eb9caf559de22fcc2904327d75c06b9.png",
+    "Demand": "Decent",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/75874/Euro-180",
+    "Trend": "Stable",
+    "History": [
+      5000
+    ]
+  },
+  {
+    "Name": "Subarctic Commando",
+    "Acronym": "SC",
+    "Value": 3700,
+    "Image": "https://pekora.zip/images/thumbnails/8a419e02d420faa8d726783ce4e044717e8a502919637944dfa91ed7e8018ce0.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/29285/Subarctic-Commando",
+    "Trend": "Stable",
+    "History": [
+      3700
+    ]
+  },
+  {
+    "Name": "Earl Of The Federation",
+    "Acronym": "EotF",
+    "Value": 12000,
+    "Image": "https://pekora.zip/images/thumbnails/b41e8ac0da34addffc646505be0efe591b0fe492585057ec843ae8f6f1dd9b5a.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/90462/Earl-of-the-Federation",
+    "Trend": "Stable",
+    "History": [
+      12000
+    ]
+  },
+  {
+    "Name": "Duke Of The Federation",
+    "Acronym": "DotF",
+    "Value": 28500,
+    "Image": "https://pekora.zip/images/thumbnails/79d7f3cc83a4d72d3b14ee6cc0b298998282324e90aeb5ce76f4824199812492.png",
+    "Demand": "Decent",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/47240/Duke-of-the-Federation",
+    "Trend": "Stable",
+    "History": [
+      28500
+    ]
+  },
+  {
+    "Name": "Dominus Astra",
+    "Acronym": "DA",
+    "Value": 25000,
+    "Image": "https://pekora.zip/images/thumbnails/51618d3bd5c7e48c44957e3da9d233e5cd8fe0b018523ced92e77a21399f52fa.png",
+    "Demand": "Low",
+    "IsRare": true,
+    "Tags": [
+      "Rare"
+    ],
+    "Link": "https://www.pekora.zip/catalog/39190/Dominus-Astra",
+    "Trend": "Stable",
+    "History": [
+      25000
+    ]
+  },
+  {
+    "Name": "Blackvalk",
+    "Acronym": "BV",
+    "Value": 5500,
+    "Image": "https://pekora.zip/images/thumbnails/99da11c7fc8f408011c924a1aabbd6f67bda93e1b8b3ec80005c756c9ac344b4.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/46615/Blackvalk",
+    "Trend": "Stable",
+    "History": [
+      5500
+    ]
+  },
+  {
+    "Name": "From the Vault: Kawaii Cat",
+    "Acronym": "FtV:KC",
+    "Value": 2500,
+    "Image": "https://pekora.zip/images/thumbnails/1087975c4466c4df1e4ba83cc91da41013a76d91c0d3a984b808beb88bade6ed.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/91038/From-the-Vault-Kawaii-Cat",
+    "Trend": "Stable",
+    "History": [
+      2500
+    ]
+  },
+  {
+    "Name": "Midnight Blue Sparkle Time Fedora",
+    "Acronym": "MBSTF",
+    "Value": 12500,
+    "Image": "https://pekora.zip/images/thumbnails/492a8bfd96773718e6510f1fdf1d44eda323b5bf497a72c155de7fc289c8494f.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/41910/Midnight-Blue-Sparkle-Time-Fedora",
+    "Trend": "Stable",
+    "History": [
+      12500
+    ]
+  },
+  {
+    "Name": "Domino Crown",
+    "Acronym": "DC",
+    "Value": 25000,
+    "Image": "https://pekora.zip/images/thumbnails/e9ad7682cbc40d346997c2d2f09ed5c32faa35b8e6b179b3d172fc385122b8f5.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [
+      "Hoarded"
+    ],
+    "Link": "https://www.pekora.zip/catalog/56781/Domino-Crown",
+    "Trend": "Stable",
+    "History": [
+      25000
+    ]
+  },
+  {
+    "Name": "The Empenguinus",
+    "Acronym": "TE",
+    "Value": 3500,
+    "Image": "https://pekora.zip/images/thumbnails/25b839015cc53a7ed6049fae42a3cc74707cedb717dae0a948a7289db5bd4fe2.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/104136/The-Empenguinus",
+    "Trend": "Stable",
+    "History": [
+      3500
+    ]
+  },
+  {
+    "Name": "Black Sparkle Time Fedora",
+    "Acronym": "BSTF",
+    "Value": 7000,
+    "Image": "https://pekora.zip/images/thumbnails/16d5d4771c9ff7b701cf000e5bf361721e0a535d9abe7f0ebd751ae81ccd5d50.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/32105/Black-Sparkle-Time-Fedora",
+    "Trend": "Stable",
+    "History": [
+      7000
+    ]
+  },
+  {
+    "Name": "Prankster",
+    "Acronym": "P",
+    "Value": 3500,
+    "Image": "https://pekora.zip/images/thumbnails/8871bc85533e1e28c8dafb4ba931368bc7cc62b5f61edffe0141000ba44d7420.png",
+    "Demand": "High",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/109208/Prankster",
+    "Trend": "Stable",
+    "History": [
+      3500
+    ]
+  },
+  {
+    "Name": "Tixvalk",
+    "Acronym": "TV",
+    "Value": 2500,
+    "Image": "https://pekora.zip/images/thumbnails/493cb16b164f352de1b6aa61fed8ce96b999b75af891cd6d9a7b0d7ec633aa6a.png",
+    "Demand": "Low",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/34230/Tixvalk",
+    "Trend": "Stable",
+    "History": [
+      2500
+    ]
+  },
+  {
+    "Name": "Sky Blue Sparkle Time Fedora",
+    "Acronym": "SBSTF",
+    "Value": 10000,
+    "Image": "https://pekora.zip/images/thumbnails/c357143441459228489382ad01b4c5a05681e6f4c4b6a93bc5e895389618ea44.png",
+    "Demand": "Decent",
+    "IsRare": false,
+    "Tags": [],
+    "Link": "https://www.pekora.zip/catalog/51222/Sky-Blue-Sparkle-Time-Fedora",
+    "Trend": "Stable",
+    "History": [
+      10000
+    ]
+  }
+]
