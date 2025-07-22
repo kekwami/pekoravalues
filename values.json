@@ -59,7 +59,7 @@
   },
   {
     "Name": "Dominus Infernus",
-    "Value": 37500,
+    "Value": 35000,
     "Demand": "Low"
   },
   {
@@ -123,11 +123,6 @@
     "Name": "The Empenguinus",
     "Value": 3500,
     "Demand": "Normal"
-  },
-  {
-    "Name": "Fiery Horns of the Netherworld",
-    "Value": 7250,
-    "Demand": "High"
   },
   {
     "Name": "Frozen Horns of the Frigid Planes",
