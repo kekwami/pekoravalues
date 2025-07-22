@@ -17,12 +17,12 @@
   },
   {
     "Name": "Blackvalk",
-    "Value": 9750,
+    "Value": 9850,
     "Demand": "High"
   },
   {
     "Name": "Bling $$ Necklace",
-    "Value": 4500,
+    "Value": 8750,
     "Demand": "Rising"
   },
   {
@@ -59,7 +59,7 @@
   },
   {
     "Name": "Dominus Infernus",
-    "Value": 24000,
+    "Value": 37500,
     "Demand": "Low"
   },
   {
@@ -105,7 +105,7 @@
   },
   {
     "Name": "Eccentric Shop Teacher",
-    "Value": 8500,
+    "Value": 22500,
     "Demand": "Low",
     "IsRare": true
   },
@@ -156,7 +156,7 @@
   },
   {
     "Name": "Lord of the Federation",
-    "Value": 30000,
+    "Value": 35000,
     "Demand": "Low",
     "IsRare": true
   },
@@ -296,6 +296,11 @@
   {
     "Name": "Pink Sparkle Time Fedora",
     "Value": 6500,
+    "Demand": "High"
+  },
+  {
+    "Name": "Interstellar Wings",
+    "Value": 4500,
     "Demand": "High"
   }
 ]
