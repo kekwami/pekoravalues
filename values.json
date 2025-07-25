@@ -297,5 +297,10 @@
     "Name": "Interstellar Wings",
     "Value": 4500,
     "Demand": "High"
+  },
+  {
+    "Name": "Fiery Horns of the Netherworld",
+    "Value": 6800,
+    "Demand": "High"
   }
 ]
